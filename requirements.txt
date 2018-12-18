@@ -1,0 +1,12 @@
+#install librosa
+librosa
+
+#install flask and flask cors
+flask
+flask_cors
+
+#install demjson
+demjson
+
+#install deepspeech mozilla
+deepspeech==0.2.0a8
