@@ -86,9 +86,6 @@ source ../QillqaqServer/app_quechua.sql;
 You have to download the trained Quechua model for performing speech-to-text, also you can download it (along with other important inference material) from the QillqaqServer releases page. Alternatively, you can run the following command to download the files in your current directory:
 
 ```bash
-sudo wget https://github.com/rjzevallos/QillqaqServer/releases/download/v0.01/5-gram.binary
-sudo wget https://github.com/rjzevallos/QillqaqServer/releases/download/v0.01/output_graph.pb
-sudo wget https://github.com/rjzevallos/QillqaqServer/releases/download/v0.01/quz_trie
 ```
 
 ## Using the Quechua model without server
